@@ -10,9 +10,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "accent-1",
-              "link": ""
+              "text": "Kostenlose Lieferung ab 50€ (DE \/ AT)",
+              "color_scheme": "inverse",
+              "link": "shopify:\/\/policies\/privacy-policy"
             }
           }
         },
