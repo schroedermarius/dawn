@@ -36,15 +36,31 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "1da61676-f42f-4f6c-88f5-f60f895140cd": {
+            "type": "text",
+            "settings": {
+              "heading": "Shops",
+              "subtext": "<p>Shisha Shop Sixty Six<br\/>Jakobstr. 5<br\/>67269 Grünstadt<\/p><p>Shisha Shop Sixty Six<br\/>Kämmererstr. 5<br\/>67547 Worms<\/p>"
+            }
+          },
+          "47f8d2f8-6d05-4869-96ab-abb376a4617a": {
+            "type": "text",
+            "settings": {
+              "heading": "Kontakt",
+              "subtext": "<p>SHISHA66<br\/>Jakobstr. 5<br\/>67269 Grünstadt<br\/><br\/>E-Mail: <a href=\"mailto: shishasixtysix@gmail.com\" title=\"INFO SHISHA66\">info@shisha66.de<\/a><br\/>Tel.: <a href=\"tel: +496359 9193670\" title=\"tel: +496359 9193670\">+496359 9193670<\/a><\/p>"
+            }
+          },
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Informationen",
+              "menu": "legal-menu"
             }
           }
         },
         "block_order": [
+          "1da61676-f42f-4f6c-88f5-f60f895140cd",
+          "47f8d2f8-6d05-4869-96ab-abb376a4617a",
           "footer-0"
         ],
         "settings": {
