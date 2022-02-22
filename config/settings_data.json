@@ -11,6 +11,10 @@
     "social_facebook_link": "https:\/\/www.facebook.com\/Shishashopsixtysix\/",
     "social_instagram_link": "https:\/\/www.instagram.com\/shisha_shop_sixty_six_\/",
     "favicon": "shopify:\/\/shop_images\/Favicon_66_Zeichenflache_1.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/Banner_enjoylifeandsmokeshisha_Zeichenflache_1.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Transparent_a0ce3792-348c-437f-a3fa-edd5b052fbbe.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
