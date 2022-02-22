@@ -5,9 +5,12 @@
     "colors_background_1": "#080808",
     "type_header_font": "montserrat_n7",
     "type_body_font": "montserrat_n5",
+    "sale_badge_color_scheme": "accent-2",
+    "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "outline-button",
     "social_facebook_link": "https:\/\/www.facebook.com\/Shishashopsixtysix\/",
     "social_instagram_link": "https:\/\/www.instagram.com\/shisha_shop_sixty_six_\/",
+    "favicon": "shopify:\/\/shop_images\/Favicon_66_Zeichenflache_1.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
